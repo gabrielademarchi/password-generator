@@ -8,3 +8,5 @@ Concepts used:
 <li>Append lists</li>  
 <li>Random Module</li>  
 </ul>
+
+-Day 5 of the #100daysofcode challenge
